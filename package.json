@@ -15,6 +15,9 @@
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "node test",
+    "start": "node app",:
+    "dev": "node app.js"
+
   }
 }
