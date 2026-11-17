@@ -1,0 +1,21 @@
+{
+  "name": "teaching-app",
+  "version": "1.0.0",
+  "description": "teaching and learning purpose",
+  "homepage": "https://github.com/sangeerthan026-rgb/node-learning-#readme",
+  "bugs": {
+    "url": "https://github.com/sangeerthan026-rgb/node-learning-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangeerthan026-rgb/node-learning-.git"
+  },
+  "license": "ISC",
+  "author": "sangeeth",
+  "type": "module",
+  "main": "app.js ",
+  "scripts": {
+    "test": "node test app.js",
+    "start": "node app.js"
+  }
+}
