@@ -1,7 +1,7 @@
 {
   "name": "teaching-app",
   "version": "1.0.0",
-  "description": "teaching and learning purpose",
+  "description": "editing testing",
   "homepage": "https://github.com/sangeerthan026-rgb/node-learning-#readme",
   "bugs": {
     "url": "https://github.com/sangeerthan026-rgb/node-learning-/issues"
@@ -10,12 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/sangeerthan026-rgb/node-learning-.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "sangeeth",
-  "type": "module",
-  "main": "app.js ",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
-    "test": "node test app.js",
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
